@@ -4,8 +4,8 @@
 
 Custom code and data for the analysis of pufferfish population structure and demographic history.
 
-**"Peculiar Pigment Pattern and Population Profile of a Poisonous Pufferfish"**  
-Seita Miyazawa *et al.* (2025)
+[**"Peculiar Pigment Pattern and Population Profile of a Poisonous Pufferfish"**](https://doi.org/10.1101/2025.11.20.687103)  
+Miyazawa, S. *et al.* (2025)
 
 - **patterns**  
 Code and data for pigment pattern quantification.
