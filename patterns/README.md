@@ -4,7 +4,11 @@ Code and data for quantifying pufferfish pigment patterns.
 - **komonfugu/**  
   Directory containing binarized images of komonfugu pigment patterns.  
 - **mushifugu/**  
-  Directory containing binarized images of mushifugu pigment patterns.  
+  Directory containing binarized images of mushifugu pigment patterns.
+- **crop_CV4.py**  
+  Custom code used for image cropping.
+- **mono_CV4.py**  
+  Custom code used for image binarization.
 - **quant_CV4.py**  
   Custom module used for pattern quantification.  
 - **quant_MK.ipynb**  
